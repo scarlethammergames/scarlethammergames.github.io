@@ -38,7 +38,7 @@
 html,
 body {
   overflow-x: hidden;
-  color: #58FAF4;
+  color: #B1BFB3;
   background-color: #2E2E2E;
 }
 
@@ -49,7 +49,7 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: ##81F7F3;
+  color: #BF7973;
   letter-spacing: -.025rem;
 }
 
@@ -149,7 +149,6 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
-  color: rgba(255,255,255,.6);
   background-color: #101010;
   -webkit-transition: all .2s ease-in-out;
           transition: all .2s ease-in-out;
@@ -212,7 +211,6 @@ a.sidebar-nav-item:focus {
   display: block;
   width: 2.2rem;
   padding: .5rem .65rem;
-  color: #505050;
   background-color: #fff;
   border-radius: 4px;
   cursor: pointer;
@@ -305,7 +303,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #58FAF4;
+  color: #BF7973;
 }
 .page-title,
 .post-title {
@@ -317,7 +315,7 @@ a.sidebar-nav-item:focus {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #58FAF4;
+  color: #BF7973;
 }
 
 /* Related posts */
