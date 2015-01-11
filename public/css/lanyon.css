@@ -38,7 +38,7 @@
 html,
 body {
   overflow-x: hidden;
-  color: #2A0A0A;
+  background-color: #202020;
 }
 
 html {
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #c0c0c0;
+  color: #04B4AE;
   letter-spacing: 0;
 }
 
