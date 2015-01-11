@@ -1,10 +1,11 @@
 ---
-title: Summary of Game Concepts Agreed Upon at Group Discussion
+title: Summary of some agreed game concepts
 author: 
   - Calem Bendell
   - Shalon Liu
 date: 15/01/10
 tags: [concept, summary]
+layout: post
 ---
 
 ## Storyline
