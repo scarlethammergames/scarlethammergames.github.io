@@ -1,6 +1,8 @@
 ---
 title: Summary of Game Concepts Agreed Upon at Group Discussion
-author: Calem Bendell
+author: 
+  - Calem Bendell
+  - Shalon Liu
 date: 10/01/15
 tags: [concept, summary]
 ---
@@ -22,7 +24,10 @@ tags: [concept, summary]
 + Pause menu
 + Planet selection
 
-### Characters
+### Powersuits
+
+The abilities of each character has not yet been decided upon.
+What has been decided upon is usage of the traditional light/medium/heavy archetype.
 
 1. Light Player
     + Dashing/roll
@@ -35,6 +40,11 @@ tags: [concept, summary]
 3. Heavy Player
     + Teleport / short range blink
 
+### Visors
+
+The specific visors have not yet been decided, but the following ideas have been presented.
+
++ Wearing the `Ghost` visor
 
 ### Planets
 
