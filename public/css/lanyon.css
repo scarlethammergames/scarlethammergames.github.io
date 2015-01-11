@@ -43,6 +43,7 @@ body {
 
 html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  color: #EEEEEE;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -103,15 +104,12 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
 }
 .masthead-title a {
-  color: #505050;
 }
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #04B4AE;
   letter-spacing: 0;
 }
 
@@ -152,9 +150,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
-  background-color: #202020;
-  -webkit-transition: all .3s ease-in-out;
-          transition: all .3s ease-in-out;
+  background-color: #101010;
+  -webkit-transition: all .2s ease-in-out;
+          transition: all .2s ease-in-out;
 }
 @media (min-width: 30em) {
   .sidebar {
