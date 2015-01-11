@@ -9,7 +9,7 @@ tags: [concept, summary]
 
 ## Storyline
 
-Group of skilled people crash landed on alien planet on an escape pod far away from home.  Cause for being away from home planet may be natural diaster, accident during an expedition, attack by maurauding parties etc.  Crash survivors must repair and refuel ship in order to make it back to home planet.  Their vehicle has limited range, thus our characters will have to make multiple stops to refuel their spacecraft.  Fortunately, there are many somewhat inhabitable planets between crash landing site and home planet that have the fuel that's needed.  A secondary objective of the game is to build communication beacons on each planet 
+Group of skilled people crash landed on alien planet on an escape pod far away from home.  Cause for being away from home planet may be natural disaster, accident during an expedition, attack by marauding parties etc.  Crash survivors must repair and refuel ship in order to make it back to home planet.  Their vehicle has limited range, thus our characters will have to make multiple stops to refuel their spacecraft.  Fortunately, there are many somewhat inhabitable planets between crash landing site and home planet that have the fuel that's needed.  A secondary objective of the game is to build communication beacons on each planet 
 
 
 
@@ -22,7 +22,7 @@ Group of skilled people crash landed on alien planet on an escape pod far away f
 ### Menus
 
 + Simple credits and main menu
-+ Suit, visor, builder/effector selection
++ Suit, visor, builder/effecter selection
 + Pause menu
 + Planet selection
 
@@ -63,9 +63,8 @@ The specific visors have not yet been decided, but the following ideas have been
 ## Stretch Goals
 
 + Planet specific enemies
-+ Space travelling minigame
-+ Landing minigame
++ Space traveling mini-game
++ Landing mini-game
 + Radar build for unfogging the overworld
 + Procedurally generated planet maps
-
 
