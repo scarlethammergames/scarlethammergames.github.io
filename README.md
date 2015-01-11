@@ -1,2 +1,1 @@
-# scarlethammergames.github.io
-Github IO Site
+This is the Scarlet Hammer Games blog!
