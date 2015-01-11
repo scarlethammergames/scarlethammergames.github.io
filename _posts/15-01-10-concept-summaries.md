@@ -47,7 +47,7 @@ What has been decided upon is usage of the traditional light/medium/heavy archet
 
 The specific visors have not yet been decided, but the following ideas have been presented.
 
-+ Wearing the `Ghost` visor
++ Certain enemy types are invivsible/cloaked.  They can be fully visible by wearing the `Ghost` visor.  Only max one player can wear the visor at any time.
 
 ### Planets
 
