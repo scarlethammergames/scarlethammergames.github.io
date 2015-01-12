@@ -62,7 +62,7 @@ Another mode is allowing a double jump by jumping onto the top of a singularity,
 
 ![Little dude traversing a bridge between singularities](http://i.imgur.com/FKQWq0h.png)
 
-![Low framerate gif from proof of concept](http://gyazo.com/e228c30c5427656a8d0034d4c99f2f6e)
+![Low framerate gif from proof of concept](http://i.gyazo.com/e228c30c5427656a8d0034d4c99f2f6e.gif)
 (note this image has a low framerate as it is a low quality gif :-)  actual prototype is very smooth)
 
 ### Pros
