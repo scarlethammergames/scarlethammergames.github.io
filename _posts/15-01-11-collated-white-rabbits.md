@@ -56,12 +56,14 @@ Another mode is allowing a double jump by jumping onto the top of a singularity,
 + Purely physics based cooperation and problem solving, which should be very intuitive, deterministic (like Portal)
 + No particularly special considerations for AI
 + Concept has been tested for resource usage and does well without optimisations
++ Particle effects can be used to hide unrealistic collision a bit and make sense in the context of the singularity
 
 ### Cons
 
 + Would require level design considerations beyond normal puzzle making (subdivisions)
 + Fine control of singularity location may be awkward (though could be easy if both joysticks used in fine control mode?)
 + Syncing physics of multiple bodies between players may be difficult and needs to be tested.
++ Approximated collision has to be used for the objects in the sphere of influence if there are going to be more than a couple hundred objects
 
 ## Transition into spirit with different environmental interactions
 
