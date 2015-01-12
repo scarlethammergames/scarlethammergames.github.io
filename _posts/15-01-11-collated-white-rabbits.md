@@ -47,6 +47,8 @@ Interesting physics based puzzles become available.
 In the prototype, this was used to traverse a bridge of objects trapped between to singularities.
 Another mode is allowing a double jump by jumping onto the top of a singularity, which pushes the character up or allows them to walk on top of the sphere of influence depending on the gravitational factor.
 
+![Little dude traversing a bridge between singularities](http://i.imgur.com/FKQWq0h.png)
+
 ### Pros
 
 + Very easy to implemented if the prototyping is any indication
