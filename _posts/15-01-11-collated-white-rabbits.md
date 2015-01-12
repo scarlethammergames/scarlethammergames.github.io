@@ -1,7 +1,7 @@
 ---
 title: A List of the White Rabbit Mechanics We Are Considering
 author: all
-date: 15/01/10
+date: 15/01/11
 tags: [concept, summary, gamemechanics, whiterabbit]
 layout: post
 ---
