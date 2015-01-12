@@ -13,13 +13,26 @@ Here is a list of some of the rabbits we could pull out of our designer's magica
 
 ### Summary
 
+One scenario is while one person crawls across a cable to breach the hull of another ship, the other must move the ship in sync with the other ship to ensure the crawling player doesn't fall.
+Could further add elements of wind and obstacles.
+
 ### Pros
 
++ Very explicit cooperative components
++ Leaves room for interesting use of physics
++ Fits well as minigame between core hack and slash
+
 ### Cons
+
++ Direct cooperation between players requires very fast and accurate network syncing
++ Can be frustrating if your partner is very poor at this minigame
 
 ## Ghost with Visibility Goggles
 
 ### Summary
+
+While one player only sees shimmers of an enemy or an important object, the other can see it very clearly.
+They must cooperate 
 
 ### Pros
 
@@ -49,14 +62,18 @@ Another mode is allowing a double jump by jumping onto the top of a singularity,
 
 ![Little dude traversing a bridge between singularities](http://i.imgur.com/FKQWq0h.png)
 
+![Low framerate gif from proof of concept](http://gyazo.com/e228c30c5427656a8d0034d4c99f2f6e)
+(note this image has a low framerate as it is a low quality gif :-)  actual prototype is very smooth)
+
 ### Pros
 
 + Very easy to implemented if the prototyping is any indication
-+ Adds much more interest to level design
++ Adds more interesting components to level design
 + Purely physics based cooperation and problem solving, which should be very intuitive, deterministic (like Portal)
 + No particularly special considerations for AI
 + Concept has been tested for resource usage and does well without optimisations
 + Particle effects can be used to hide unrealistic collision a bit and make sense in the context of the singularity
++ Cooperative elements are less contrived, and if friendly fire is enabled accidentally sucking your partner into a singularity could be very amusing given the appropriate sound effects and cues
 
 ### Cons
 
