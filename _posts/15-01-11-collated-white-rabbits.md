@@ -69,6 +69,9 @@ Mesh collision can greatly improve the look and feel, but will dramatically redu
 Smooth performance with mesh collision limited to some 250 cubes.
 ![Mesh collision rather than box collision](http://i.imgur.com/H5u0owO.png)
 
+A bridge can be formed with 25 sheets if optimising for few objects with convex collision meshes.
+![Flatter sheets bridge](http://i.imgur.com/sq5tF9N.png)
+
 ### Pros
 
 + Very easy to implemented if the prototyping is any indication
