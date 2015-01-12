@@ -65,6 +65,10 @@ Another mode is allowing a double jump by jumping onto the top of a singularity,
 ![Low framerate gif from proof of concept](http://i.gyazo.com/e228c30c5427656a8d0034d4c99f2f6e.gif)
 (note this image has a low framerate as it is a low quality gif :-)  actual prototype is very smooth)
 
+Mesh collision can greatly improve the look and feel, but will dramatically reduce performance.
+Smooth performance with mesh collision limited to some 250 cubes.
+![Mesh collision rather than box collision](http://i.imgur.com/H5u0owO.png)
+
 ### Pros
 
 + Very easy to implemented if the prototyping is any indication
